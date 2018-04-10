@@ -19,7 +19,7 @@ Open First go to the master branch of the project and get a copy of the reposito
 https://github.com/gabe-ng/Restaurant-Review-App
 ```
 
-To view the app, navigate to the project, go to the project's **dist** directory. In this folder, start up a simple HTTP server to serve up the site files on your local computer. For example, with Python: `python -m SimpleHTTPServer 8000`
+To view the app, navigate to the project and launch a local client server using Python from your terminal. For example, with Python 2: `python -m SimpleHTTPServer 8000` or Python 3: `python3 -m http.server 8000`
 
  
 You can check out the original repository [here](https://github.com/udacity/mws-restaurant-stage-1).
