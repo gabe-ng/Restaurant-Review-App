@@ -1,13 +1,11 @@
 ---
 This is part of the [Udacity](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) Front-End Web Development Program.
 
-
 ----------
 
-<h2>Restaurant Reviews App Stage 1<h2>
+<h2>Restaurant Reviews App Stage 1
 
- <h4>Your Goal:</h4>
-
+ <h4>The Goals:</h4>
  - Convert a static webpage to a mobile-ready web application.
  - Implement proper accessbility for screen reader use.
  - Apply responsive deisgn across different displays.
