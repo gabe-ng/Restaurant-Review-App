@@ -6,9 +6,13 @@ This is part of the [Udacity](https://www.udacity.com/course/front-end-web-devel
 <h2>Restaurant Reviews App Stage 1
 
  <h4>The Goals:</h4>
+ 
  - Convert a static webpage to a mobile-ready web application.
+ 
  - Implement proper accessbility for screen reader use.
+ 
  - Apply responsive deisgn across different displays.
+ 
  - Add a service worker to cache data and create a seamless offline experience for users.
  
  <h4>How to Run:</h4>
